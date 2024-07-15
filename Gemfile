@@ -6,7 +6,7 @@ gemspec
 
 group :development do
   gem "activerecord", "~> 7.1"
-  gem "boxt_rubocop", "2.9.1"
+  gem "boxt_rubocop", "2.10.0"
   gem "byebug", "~> 11.0"
   gem "rake", "~> 13.2"
   gem "rspec", "~> 3.13"
