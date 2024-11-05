@@ -11,7 +11,7 @@ group :development do
   gem "rake", "~> 13.2"
   gem "rspec", "~> 3.13"
   gem "simplecov", "~> 0.22"
-  gem "sqlite3", "~> 1.7"
+  gem "sqlite3", "~> 2.0"
   gem "timecop", "~> 0.9"
   gem "with_model", "~> 2.1"
 end
